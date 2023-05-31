@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "paket-uppgit-1-depend": "^1.0.0"
+  },
+  "name": "liams-paket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamSvahn/paket.git"
+  },
+  "author": "Liam Svahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiamSvahn/paket/issues"
+  },
+  "homepage": "https://github.com/LiamSvahn/paket#readme",
+  "description": ""
+}
