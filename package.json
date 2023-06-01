@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "express": "^4.18.2",
     "paket-uppgit-1-depend": "1.1.0"
   },
   "name": "liams-paket",
