@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "paket-uppgit-1-depend": "^1.0.0"
+    "paket-uppgit-1-depend": "1.1.0"
   },
   "name": "liams-paket",
   "version": "1.0.0",
