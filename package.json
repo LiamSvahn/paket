@@ -1,8 +1,4 @@
 {
-  "dependencies": {
-    "express": "^4.18.2",
-    "paket-uppgit-1-depend": "1.1.0"
-  },
   "name": "liams-paket",
   "version": "1.0.0",
   "main": "index.js",
@@ -18,6 +14,13 @@
   "bugs": {
     "url": "https://github.com/LiamSvahn/paket/issues"
   },
+  "dependencies": {
+    "paket-uppgit-1-depend": "1.1.0",
+    "webpack": "^5.85.0"
+  },
   "homepage": "https://github.com/LiamSvahn/paket#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "webpack-cli": "^5.1.1"
+  }
 }
